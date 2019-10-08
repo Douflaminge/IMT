@@ -1,4 +1,4 @@
-ublic class PetriNet {
+Public class PetriNet {
 		public static void main (String args[]) {
 			void addArc{
 				int Narc;
